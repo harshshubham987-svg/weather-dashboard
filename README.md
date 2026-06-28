@@ -91,12 +91,6 @@ npm run build
 ## Repository
 [https://github.com/harshshubham987-svg/weather-dashboard](https://github.com/harshshubham987-svg/weather-dashboard)
 
-## Author
-Harsh Singh
-GitHub: [github.com/harshshubham987-svg](https://github.com/harshshubham987-svg)
-
-## License
-MIT License - Use, modify, and distribute freely with proper attribution.
 
 ## Screenshots
 
@@ -126,3 +120,10 @@ MIT License - Use, modify, and distribute freely with proper attribution.
 - Create mobile PWA support
 - Add dark/light theme toggle
 - Implement weather summary infographics
+
+## Author
+Harsh Singh
+GitHub: [github.com/harshshubham987-svg](https://github.com/harshshubham987-svg)
+
+## License
+MIT License - Use, modify, and distribute freely with proper attribution.
